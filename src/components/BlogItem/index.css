@@ -1,0 +1,19 @@
+/* Write your CSS code here */
+.blog-card {
+  margin: 10px;
+  list-style-type: none;
+  width: 80%;
+  border-style: solid;
+  border-radius: 10px;
+
+  border-width: 0.2px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  background-color: #e5eaf5;
+}
+.heading {
+  font-family: 'roboto';
+  font-size: 20px;
+  align-self: center;
+}
