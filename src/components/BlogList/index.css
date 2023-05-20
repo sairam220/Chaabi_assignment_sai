@@ -1,7 +1,0 @@
-/* Write your CSS code here */
-.blog-container {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  justify-content: center;
-}

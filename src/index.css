@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen';
+  background-color: azure;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+h2 {
+  font-weight: 400;
+  font-size: 30px;
+}
+
+.container {
+  max-width: 800px;
+  margin: 10px auto;
+  padding: 10px;
+  border: 2px solid red;
+}
+
+.flex-container {
+  display: flex;
+  justify-content: center;
+}
+
+.stat {
+  margin: 0 20px;
+  padding: 0 10px;
+  text-align: center;
+}
+
+input {
+  font-size: 30px;
+  height: 60px;
+  text-align: center;
+  font-family: inherit;
+  min-width: 500px;
+  margin: auto;
+}
+
+.timer h1 {
+  font-size: 40px;
+  margin: 0;
+  font-weight: 400;
+  text-align: center;
+}
